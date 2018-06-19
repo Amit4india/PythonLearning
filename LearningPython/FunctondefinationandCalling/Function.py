@@ -5,7 +5,7 @@ Created on Aug 18, 2017
 '''
 def amit(str1):
     "defining the function here"
-    str1.append([10,20,30])
+    str1.append([10,20,40])
     print("the value of str inside the amit function", str1)
     return str1;
 str1=[1,2,3,4]
