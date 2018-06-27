@@ -12,7 +12,7 @@ def FileRead():
         else:
             raise Exception
     except IOError: # Handling a specify error type
-        print ("Unable to locate the file")
+        print ("Unable nscksdsaddto locate the file")
     except Exception:
         print ("file name is not matched")
     else: # this piece of code will only execute if try does through an error!
